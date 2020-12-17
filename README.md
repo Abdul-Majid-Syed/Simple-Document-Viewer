@@ -20,7 +20,7 @@
  
 ![Image 4](https://codehs.com/uploads/e073a38a9786ee0f49d4c47a1ab528cf)
 
-### If you find that exhausting, or too long :grinning: you can download a crx file [here](), and you just follow step three and four above and drag and drop the file in the page (i.e. chrome://extensions). 
+### If you find that exhausting, or too long :grinning: you can download a crx file [here](https://github.com/Abdul-Majid-Syed/Simple-Document-Viewer/blob/main/Document%20Viewer.crx?raw=true), and you just follow step three and four above and drag and drop the file in the page (i.e. chrome://extensions). 
 
 ### *Note:* When trying the first method, (unzipping, and unpacking the folder), you *_must not_* move, edit, or delete the folder in anyway. Doing so will cause the extension to malfunction. So I would recommend you to use the secon method (Drag and drop .crx file), since you cann delete it after installation. 
 
