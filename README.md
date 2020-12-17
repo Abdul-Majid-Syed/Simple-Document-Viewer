@@ -1,5 +1,4 @@
 # Simple-Document-Viewer
-### Now view files directly from our browser. Even From Google Drive!# Simple-Document-Viewer
 ### Now view files directly from our browser. Even From Google Drive!
 For firefox users, head [here](https://addons.mozilla.org/en-US/firefox/addon/simple-document-viewer/) to directly install the add-on for Chrome or other users, you can download [this] zip file and follow the below steps
 1. Download [this] zip file
@@ -10,7 +9,7 @@ For firefox users, head [here](https://addons.mozilla.org/en-US/firefox/addon/si
 
 4. Turn on Developer mode on the top right
 
-       ![Image 2](https://codehs.com/uploads/03566c7f9adeaea52960f57ee635c5b0)
+![Image 2](https://codehs.com/uploads/03566c7f9adeaea52960f57ee635c5b0)
        
 5.   Click on Load Unpacked on the left-hand top
 
